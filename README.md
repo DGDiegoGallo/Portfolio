@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Gallo</h1>
 <h3 align="center">Passionate about web development, game design, and creating efficient, scalable solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgdiegogallo" alt="dgdiegogallo" /></a> </p>
 
 ## 🛠 Skills
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +25,4 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diegogallo.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gallo-1976b92a6/)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgdiegogallo" alt="dgdiegogallo" /></a> </p>
